@@ -1,6 +1,8 @@
 # tec2000-brand-protection
 
 TEC 2000 Brand Protection - Allegro Monitoring Tool<br>
+✅ Application Name: AnalizaSprzedazyTEC2000<br>
+✅ Client ID: 2048568bb05a4ac79e07f69ce49f5d0f<br>
 <br>
 <b>✅ Verification methods:</b><br>
 DNS TXT record: allegro-verification=slawomirgol-2048568bb05a4ac79e07f69ce49f5d0f<br>
@@ -13,19 +15,19 @@ tec2000.pl - DNS<br>
 <br>
 
 🛡️ Purpose<br>
-This application is used by PKB Sp. z o.o. SPK, the exclusive distributor of TEC 2000 automotive products in Poland, for brand protection on Allegro.pl marketplace.<br>
+This application is used by PKB Sp. z o.o. SPK, the exclusive distributor of TEC 2000 (on behalf of TEC-2000 Ltd.) automotive products in Poland, for brand protection on Allegro.pl marketplace.<br>
 <br>
 Use Cases:<br>
-✅ Counterfeit detection - identifying fake TEC 2000 products<br>
-✅ Trademark violation monitoring - detecting unauthorized brand usage<br>
-✅ Expired product alerts - finding sellers offering damaged/expired goods<br>
-✅ Authorized seller verification - ensuring only legitimate distributors sell TEC 2000<br>
+- Counterfeit detection - identifying fake TEC 2000 products<br>
+- Trademark violation monitoring - detecting unauthorized brand usage<br>
+- Expired product alerts - finding sellers offering damaged/expired goods<br>
+- Authorized seller verification - ensuring only legitimate distributors sell TEC 2000<br>
 
 This is NOT competitive analysis - it's consumer protection and brand integrity monitoring.<br>
 <br>
 📋 Application Details<br>
-Application Name: AnalizaSprzedazyTEC2000<br>
-Client ID: 2048568bb05a4ac79e07f69ce49f5d0f<br>
+✅ Application Name: AnalizaSprzedazyTEC2000<br>
+✅ Client ID: 2048568bb05a4ac79e07f69ce49f5d0f<br>
 Owner: Sławomir Goleniak (slawomirgol)<br>
 Company: PKB Sp. z o.o. SPK and TEC-2000 Ltd. UK https://find-and-update.company-information.service.gov.uk/company/04608392 <br> 
 Contact: <br>
