@@ -4,12 +4,12 @@ TEC 2000 Brand Protection - Allegro Monitoring Tool<br>
 <br>
 <b>✅ Verification methods:</b><br>
 DNS TXT record: allegro-verification=slawomirgol-2048568bb05a4ac79e07f69ce49f5d0f<br>
-Verification file: https://tec2000.com/allegro-verification.txt<br>
+Verification file: https://tec2000.com/allegro-verification <br>
 
 ✅ Domain Verification<br>
 This repository and application are owned by the verified owner of:<br>
-tec2000.com<br>
-tec2000.pl<br>
+tec2000.com - DNS + TXT file<br>
+tec2000.pl - DNS<br>
 <br>
 
 🛡️ Purpose<br>
