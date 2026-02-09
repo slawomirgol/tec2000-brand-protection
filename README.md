@@ -15,7 +15,7 @@ tec2000.pl - DNS<br>
 <br>
 
 🛡️ Purpose<br>
-This application is used by PKB Sp. z o.o. SPK, the exclusive distributor of TEC 2000 (on behalf of TEC-2000 Ltd.) automotive products in Poland, for brand protection on Allegro.pl marketplace.<br>
+This application is used by PKB Sp. z o.o. SPK, the exclusive distributor of TEC 2000 (on behalf of TEC-2000 Ltd.) automotive products, for brand protection on Allegro.pl marketplace.<br>
 <br>
 Use Cases:<br>
 - Counterfeit detection - identifying fake TEC 2000 products<br>
