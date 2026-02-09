@@ -19,7 +19,6 @@ This application is used by PKB Sp. z o.o. SPK, the exclusive distributor of TEC
 <br>
 Use Cases:<br>
 - Counterfeit detection - identifying fake TEC 2000 products<br>
-- Trademark violation monitoring - detecting unauthorized brand usage<br>
 - Expired product alerts - finding sellers offering damaged/expired goods<br>
 - Authorized seller verification - ensuring only legitimate distributors sell TEC 2000<br>
 
